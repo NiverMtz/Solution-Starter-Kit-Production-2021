@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.banner {
+    width: 100%;
+    height: 100px;
+    background: url(../images/random-pattern-1.png);
+    background-size: contain;
+}
